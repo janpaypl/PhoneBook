@@ -1,0 +1,1 @@
+Ksi¹¿ka telefoniczna – Dodawanie/usuwanie/edycja ksi¹¿ki telefonicznej (ID, nazwisko, imiê, adres(ulica, nr domu/mieszkania, kod pocztowy, miasto), telefon). Wyœwietlanie kontaktów  ksi¹¿ki telefonicznej z mo¿liwoœci¹ sortowania rosn¹cego/malej¹cego po dowolnym polu. Wyszukiwanie kontaktów. Zapisywanie/wczytywanie kontaktów do/z pliku. Wykorzystanie list.
